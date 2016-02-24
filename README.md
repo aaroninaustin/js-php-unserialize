@@ -1,6 +1,8 @@
 js-php-unserialize
 ==================
 
+[![Join the chat at https://gitter.im/aaroninaustin/js-php-unserialize](https://badges.gitter.im/aaroninaustin/js-php-unserialize.svg)](https://gitter.im/aaroninaustin/js-php-unserialize?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://secure.travis-ci.org/naholyr/js-php-unserialize.png)](http://travis-ci.org/naholyr/js-php-unserialize)
 
 JavaScript tool to unserialize data taken from PHP. It can parse "serialize()" output, or even serialized sessions data.
